@@ -1,4 +1,4 @@
-# 实时活体检测：眨眼行为识别
+# 实时活体检测：眨眼行为
 from scipy.spatial import distance as dist
 from imutils.video import FileVideoStream
 from imutils.video import VideoStream
